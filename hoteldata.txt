@@ -1,0 +1,2647 @@
+﻿<feed xml:base="http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+  <title type="text">okhotel</title>
+  <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel/</id>
+  <updated>2012-04-05T03:10:46Z</updated>
+  <link rel="self" title="okhotel" href="okhotel" />
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A12.5443243Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='048ae2e0-9cc4-4321-b1d0-ca70d925fc04',RowKey='%E5%96%AC%E7%BE%8E%E6%97%85%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='048ae2e0-9cc4-4321-b1d0-ca70d925fc04',RowKey='%E5%96%AC%E7%BE%8E%E6%97%85%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>048ae2e0-9cc4-4321-b1d0-ca70d925fc04</d:PartitionKey>
+        <d:RowKey>喬美旅店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:12.5443243Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">048ae2e0-9cc4-4321-b1d0-ca70d925fc04</d:entityid>
+        <d:標題>喬美旅店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :27630555</d:內容>
+        <d:顯示用地址>台北市松山區八德路4段16號</d:顯示用地址>
+        <d:系統辨識用地址>台北市八德路四段16號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A09.5467249Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='052b8362-09d1-424b-930f-649b8162e6d0',RowKey='%E7%BE%8E%E9%BA%97%E4%BF%A1%E9%85%92%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='052b8362-09d1-424b-930f-649b8162e6d0',RowKey='%E7%BE%8E%E9%BA%97%E4%BF%A1%E9%85%92%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>052b8362-09d1-424b-930f-649b8162e6d0</d:PartitionKey>
+        <d:RowKey>美麗信酒店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:09.5467249Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">052b8362-09d1-424b-930f-649b8162e6d0</d:entityid>
+        <d:標題>美麗信酒店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :77028800-2232</d:內容>
+        <d:顯示用地址>台北市中山區市民大道3段83號</d:顯示用地址>
+        <d:系統辨識用地址>台北市市民大道三段83號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A24.3286807Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='08f3b5a2-771e-4b4c-ab7f-4beca70fec6f',RowKey='%E7%AC%AC%E4%B8%80%E8%8F%AF%E5%83%91%E5%A4%A7%E9%A3%AF%E5%BA%97%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='08f3b5a2-771e-4b4c-ab7f-4beca70fec6f',RowKey='%E7%AC%AC%E4%B8%80%E8%8F%AF%E5%83%91%E5%A4%A7%E9%A3%AF%E5%BA%97%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>08f3b5a2-771e-4b4c-ab7f-4beca70fec6f</d:PartitionKey>
+        <d:RowKey>第一華僑大飯店股份有限公司</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:24.3286807Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">08f3b5a2-771e-4b4c-ab7f-4beca70fec6f</d:entityid>
+        <d:標題>第一華僑大飯店股份有限公司</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2541-8234</d:內容>
+        <d:顯示用地址>台北市中山區南京東路2段63號</d:顯示用地址>
+        <d:系統辨識用地址>台北市南京東路二段63號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A16.1550463Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='09400e4f-7fa1-4b4c-8c76-f0db9cfc61b4',RowKey='%E5%8F%B0%E5%8C%97%E5%AE%98%E9%82%B8%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='09400e4f-7fa1-4b4c-8c76-f0db9cfc61b4',RowKey='%E5%8F%B0%E5%8C%97%E5%AE%98%E9%82%B8%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>09400e4f-7fa1-4b4c-8c76-f0db9cfc61b4</d:PartitionKey>
+        <d:RowKey>台北官邸飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:16.1550463Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">09400e4f-7fa1-4b4c-8c76-f0db9cfc61b4</d:entityid>
+        <d:標題>台北官邸飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :28805599</d:內容>
+        <d:顯示用地址>台北市士林區文林路102號</d:顯示用地址>
+        <d:系統辨識用地址>台北市文林路102號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A37.8593887Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='0abb546a-b539-4207-aab6-e7356f8eedb5',RowKey='%E6%9D%B1%E9%BE%8D%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='0abb546a-b539-4207-aab6-e7356f8eedb5',RowKey='%E6%9D%B1%E9%BE%8D%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>0abb546a-b539-4207-aab6-e7356f8eedb5</d:PartitionKey>
+        <d:RowKey>東龍大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:37.8593887Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">0abb546a-b539-4207-aab6-e7356f8eedb5</d:entityid>
+        <d:標題>東龍大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2311-6969</d:內容>
+        <d:顯示用地址>台北市萬華區漢口街2段23號2-8樓</d:顯示用地址>
+        <d:系統辨識用地址>台北市漢口街二段23號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A51.1030369Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='0add9231-684e-4c0d-b475-b6feea31bac4',RowKey='%E6%9D%B1%E7%9A%87%E6%B8%A1%E5%81%87%E6%97%85%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='0add9231-684e-4c0d-b475-b6feea31bac4',RowKey='%E6%9D%B1%E7%9A%87%E6%B8%A1%E5%81%87%E6%97%85%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>0add9231-684e-4c0d-b475-b6feea31bac4</d:PartitionKey>
+        <d:RowKey>東皇渡假旅店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:51.1030369Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">0add9231-684e-4c0d-b475-b6feea31bac4</d:entityid>
+        <d:標題>東皇渡假旅店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :28913027</d:內容>
+        <d:顯示用地址>台北市北投區溫泉路141號</d:顯示用地址>
+        <d:系統辨識用地址>台北市溫泉路141號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A03.3734905Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='0d1c0857-6425-43d4-87b4-02864cb5a5f7',RowKey='%E8%92%B2%E5%9C%92%E9%A3%AF%E5%BA%97%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='0d1c0857-6425-43d4-87b4-02864cb5a5f7',RowKey='%E8%92%B2%E5%9C%92%E9%A3%AF%E5%BA%97%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>0d1c0857-6425-43d4-87b4-02864cb5a5f7</d:PartitionKey>
+        <d:RowKey>蒲園飯店股份有限公司</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:03.3734905Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">0d1c0857-6425-43d4-87b4-02864cb5a5f7</d:entityid>
+        <d:標題>蒲園飯店股份有限公司</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2753-0772</d:內容>
+        <d:顯示用地址>台北市松山區八德路4段176號</d:顯示用地址>
+        <d:系統辨識用地址>台北市八德路四段176號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A19.7527657Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='0e7ab32e-9582-4350-b23d-6e17ccd0c027',RowKey='%E5%8F%B0%E5%8C%97%E9%A6%A5%E8%8F%AF%E5%95%86%E6%97%85')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='0e7ab32e-9582-4350-b23d-6e17ccd0c027',RowKey='%E5%8F%B0%E5%8C%97%E9%A6%A5%E8%8F%AF%E5%95%86%E6%97%85')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>0e7ab32e-9582-4350-b23d-6e17ccd0c027</d:PartitionKey>
+        <d:RowKey>台北馥華商旅</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:19.7527657Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">0e7ab32e-9582-4350-b23d-6e17ccd0c027</d:entityid>
+        <d:標題>台北馥華商旅</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :25118896</d:內容>
+        <d:顯示用地址>台北市中山區一江街3號</d:顯示用地址>
+        <d:系統辨識用地址>台北市一江街3號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A39.3926953Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='0f498bd9-d970-463e-a751-f48361de8327',RowKey='%E5%A4%A7%E9%A0%86%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='0f498bd9-d970-463e-a751-f48361de8327',RowKey='%E5%A4%A7%E9%A0%86%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>0f498bd9-d970-463e-a751-f48361de8327</d:PartitionKey>
+        <d:RowKey>大順大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:39.3926953Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">0f498bd9-d970-463e-a751-f48361de8327</d:entityid>
+        <d:標題>大順大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :23818710</d:內容>
+        <d:顯示用地址>台北市萬華區漢中街170.172號</d:顯示用地址>
+        <d:系統辨識用地址>台北市漢中街170.172號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A00.2278615Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='1205dee0-cd69-4e4b-ae24-784f4fc230a8',RowKey='%E8%96%87%E9%A2%A8%E5%95%86%E5%8B%99%E6%97%85%E9%A4%A8%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='1205dee0-cd69-4e4b-ae24-784f4fc230a8',RowKey='%E8%96%87%E9%A2%A8%E5%95%86%E5%8B%99%E6%97%85%E9%A4%A8%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>1205dee0-cd69-4e4b-ae24-784f4fc230a8</d:PartitionKey>
+        <d:RowKey>薇風商務旅館有限公司</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:00.2278615Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">1205dee0-cd69-4e4b-ae24-784f4fc230a8</d:entityid>
+        <d:標題>薇風商務旅館有限公司</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2563-3369</d:內容>
+        <d:顯示用地址>台北市中山區中山北路2段77巷17-3號</d:顯示用地址>
+        <d:系統辨識用地址>台北市中山北路二段77巷17之3號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A56.6731507Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='129e1204-9011-4823-8b56-37716b2af27a',RowKey='%E5%B1%B1%E6%B0%B4%E6%A8%82%E6%9C%83%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='129e1204-9011-4823-8b56-37716b2af27a',RowKey='%E5%B1%B1%E6%B0%B4%E6%A8%82%E6%9C%83%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>129e1204-9011-4823-8b56-37716b2af27a</d:PartitionKey>
+        <d:RowKey>山水樂會館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:56.6731507Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">129e1204-9011-4823-8b56-37716b2af27a</d:entityid>
+        <d:標題>山水樂會館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :28922665</d:內容>
+        <d:顯示用地址>台北市北投區中和街20巷6號</d:顯示用地址>
+        <d:系統辨識用地址>台北市中和街20巷6號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A19.0126177Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='14c84ab0-190c-4a2b-a30e-5c0bf26065f1',RowKey='%E6%9D%B1%E5%A7%BF%E5%95%86%E5%8B%99%E6%97%85%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='14c84ab0-190c-4a2b-a30e-5c0bf26065f1',RowKey='%E6%9D%B1%E5%A7%BF%E5%95%86%E5%8B%99%E6%97%85%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>14c84ab0-190c-4a2b-a30e-5c0bf26065f1</d:PartitionKey>
+        <d:RowKey>東姿商務旅館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:19.0126177Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">14c84ab0-190c-4a2b-a30e-5c0bf26065f1</d:entityid>
+        <d:標題>東姿商務旅館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :25682005</d:內容>
+        <d:顯示用地址>台北市中山區錦州街20號3樓</d:顯示用地址>
+        <d:系統辨識用地址>台北市錦州街20號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A25.1118373Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='16db28f4-2294-4298-833a-4f1add4ed265',RowKey='%E5%8F%B0%E5%8C%97%E8%8A%B1%E5%9C%92%E5%A4%A7%E9%85%92%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='16db28f4-2294-4298-833a-4f1add4ed265',RowKey='%E5%8F%B0%E5%8C%97%E8%8A%B1%E5%9C%92%E5%A4%A7%E9%85%92%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>16db28f4-2294-4298-833a-4f1add4ed265</d:PartitionKey>
+        <d:RowKey>台北花園大酒店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:25.1118373Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">16db28f4-2294-4298-833a-4f1add4ed265</d:entityid>
+        <d:標題>台北花園大酒店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :23143300-3400</d:內容>
+        <d:顯示用地址>台北市萬華區中華路2段1號</d:顯示用地址>
+        <d:系統辨識用地址>台北市中華路二段1號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A47.0212207Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='170136f7-e789-4ba7-aa75-b7b1e2806cd2',RowKey='%E6%B0%B4%E9%83%BD%E6%BA%AB%E6%B3%89%E6%9C%83%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='170136f7-e789-4ba7-aa75-b7b1e2806cd2',RowKey='%E6%B0%B4%E9%83%BD%E6%BA%AB%E6%B3%89%E6%9C%83%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>170136f7-e789-4ba7-aa75-b7b1e2806cd2</d:PartitionKey>
+        <d:RowKey>水都溫泉會館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:47.0212207Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">170136f7-e789-4ba7-aa75-b7b1e2806cd2</d:entityid>
+        <d:標題>水都溫泉會館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :28979060</d:內容>
+        <d:顯示用地址>台北市北投區溫泉路284號</d:顯示用地址>
+        <d:系統辨識用地址>台北市溫泉路284號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A41.9292025Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='187f3f69-0b11-430c-8082-2e571cfffd24',RowKey='%E5%85%A8%E5%AE%B6%E6%AD%A1%E6%97%85%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='187f3f69-0b11-430c-8082-2e571cfffd24',RowKey='%E5%85%A8%E5%AE%B6%E6%AD%A1%E6%97%85%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>187f3f69-0b11-430c-8082-2e571cfffd24</d:PartitionKey>
+        <d:RowKey>全家歡旅店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:41.9292025Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">187f3f69-0b11-430c-8082-2e571cfffd24</d:entityid>
+        <d:標題>全家歡旅店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :23814755</d:內容>
+        <d:顯示用地址>台北市中正區忠孝西路1段72號4樓</d:顯示用地址>
+        <d:系統辨識用地址>台北市忠孝西路一段72號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A11.8801915Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='1b8c561b-d90e-414f-8df4-488076fbf0b7',RowKey='Eclat%20Hotel%20Taipei%E5%8F%B0%E5%8C%97%E6%80%A1%E4%BA%A8%E9%85%92%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='1b8c561b-d90e-414f-8df4-488076fbf0b7',RowKey='Eclat%20Hotel%20Taipei%E5%8F%B0%E5%8C%97%E6%80%A1%E4%BA%A8%E9%85%92%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>1b8c561b-d90e-414f-8df4-488076fbf0b7</d:PartitionKey>
+        <d:RowKey>Eclat Hotel Taipei台北怡亨酒店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:11.8801915Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">1b8c561b-d90e-414f-8df4-488076fbf0b7</d:entityid>
+        <d:標題>Eclat Hotel Taipei台北怡亨酒店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :27848888</d:內容>
+        <d:顯示用地址>台北市大安區敦化南路1段370號</d:顯示用地址>
+        <d:系統辨識用地址>台北市敦化南路一段370號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A08.3454847Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='1bf38729-8828-43df-9963-b3ab670f3996',RowKey='%E4%B8%AD%E6%BA%90%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='1bf38729-8828-43df-9963-b3ab670f3996',RowKey='%E4%B8%AD%E6%BA%90%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>1bf38729-8828-43df-9963-b3ab670f3996</d:PartitionKey>
+        <d:RowKey>中源大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:08.3454847Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">1bf38729-8828-43df-9963-b3ab670f3996</d:entityid>
+        <d:標題>中源大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :25505799</d:內容>
+        <d:顯示用地址>台北市大同區重慶北路1段73號</d:顯示用地址>
+        <d:系統辨識用地址>台北市重慶北路一段73號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A40.9149997Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='1d6556b3-47ee-458b-9476-20a9ec298bce',RowKey='%E5%90%8D%E9%82%91%E6%97%85%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='1d6556b3-47ee-458b-9476-20a9ec298bce',RowKey='%E5%90%8D%E9%82%91%E6%97%85%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>1d6556b3-47ee-458b-9476-20a9ec298bce</d:PartitionKey>
+        <d:RowKey>名邑旅店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:40.9149997Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">1d6556b3-47ee-458b-9476-20a9ec298bce</d:entityid>
+        <d:標題>名邑旅店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :23713151-3</d:內容>
+        <d:顯示用地址>台北市中正區漢口街1段4號</d:顯示用地址>
+        <d:系統辨識用地址>台北市漢口街一段4號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A15.1388431Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='1f696836-2837-45fd-af05-24c68fe551f6',RowKey='%E5%85%AB%E6%96%B9%E7%BE%8E%E5%AD%B8%E5%95%86%E6%97%85')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='1f696836-2837-45fd-af05-24c68fe551f6',RowKey='%E5%85%AB%E6%96%B9%E7%BE%8E%E5%AD%B8%E5%95%86%E6%97%85')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>1f696836-2837-45fd-af05-24c68fe551f6</d:PartitionKey>
+        <d:RowKey>八方美學商旅</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:15.1388431Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">1f696836-2837-45fd-af05-24c68fe551f6</d:entityid>
+        <d:標題>八方美學商旅</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :23583500</d:內容>
+        <d:顯示用地址>台北市中正區金山南路1段8號</d:顯示用地址>
+        <d:系統辨識用地址>台北市金山南路一段8號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A34.7877745Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='20c170d1-0e09-4cd4-b492-d5b9228c2830',RowKey='%E5%8F%8B%E6%B3%B0%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='20c170d1-0e09-4cd4-b492-d5b9228c2830',RowKey='%E5%8F%8B%E6%B3%B0%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>20c170d1-0e09-4cd4-b492-d5b9228c2830</d:PartitionKey>
+        <d:RowKey>友泰大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:34.7877745Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">20c170d1-0e09-4cd4-b492-d5b9228c2830</d:entityid>
+        <d:標題>友泰大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2709-2177</d:內容>
+        <d:顯示用地址>台北市大安區新生南路1段143-6號</d:顯示用地址>
+        <d:系統辨識用地址>台北市新生南路一段143之6號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A16.9592071Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='21daf232-4998-48ec-a33a-0b8d4be5b5be',RowKey='%E8%A5%BF%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='21daf232-4998-48ec-a33a-0b8d4be5b5be',RowKey='%E8%A5%BF%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>21daf232-4998-48ec-a33a-0b8d4be5b5be</d:PartitionKey>
+        <d:RowKey>西華大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:16.9592071Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">21daf232-4998-48ec-a33a-0b8d4be5b5be</d:entityid>
+        <d:標題>西華大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :27181188-3301</d:內容>
+        <d:顯示用地址>台北市松山區民生東路3段111號</d:顯示用地址>
+        <d:系統辨識用地址>台北市民生東路三段111號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A57.8853931Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='226db2e9-f598-4f81-94a4-18bd7a7f3444',RowKey='%E6%AF%94%E5%A0%A4%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='226db2e9-f598-4f81-94a4-18bd7a7f3444',RowKey='%E6%AF%94%E5%A0%A4%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>226db2e9-f598-4f81-94a4-18bd7a7f3444</d:PartitionKey>
+        <d:RowKey>比堤飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:57.8853931Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">226db2e9-f598-4f81-94a4-18bd7a7f3444</d:entityid>
+        <d:標題>比堤飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2506-6768</d:內容>
+        <d:顯示用地址>台北市中山區建國北路2段91.93號</d:顯示用地址>
+        <d:系統辨識用地址>台北市建國北路二段91.93號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A22.6653481Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='22c2be13-3379-4fe5-9b45-19055f5739a0',RowKey='%E4%BA%9E%E9%83%BD%E9%BA%97%E7%B7%BB%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='22c2be13-3379-4fe5-9b45-19055f5739a0',RowKey='%E4%BA%9E%E9%83%BD%E9%BA%97%E7%B7%BB%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>22c2be13-3379-4fe5-9b45-19055f5739a0</d:PartitionKey>
+        <d:RowKey>亞都麗緻大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:22.6653481Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">22c2be13-3379-4fe5-9b45-19055f5739a0</d:entityid>
+        <d:標題>亞都麗緻大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2597-1234</d:內容>
+        <d:顯示用地址>台北市中山區民權東路2段41號</d:顯示用地址>
+        <d:系統辨識用地址>台北市民權東路二段41號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A12.0882331Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='241347a2-f984-4374-b2af-a52394e4affe',RowKey='%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E9%81%A0%E6%9D%B1%E5%9C%8B%E9%9A%9B%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='241347a2-f984-4374-b2af-a52394e4affe',RowKey='%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E9%81%A0%E6%9D%B1%E5%9C%8B%E9%9A%9B%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>241347a2-f984-4374-b2af-a52394e4affe</d:PartitionKey>
+        <d:RowKey>香格里拉遠東國際大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:12.0882331Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">241347a2-f984-4374-b2af-a52394e4affe</d:entityid>
+        <d:標題>香格里拉遠東國際大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2378-8888</d:內容>
+        <d:顯示用地址>台北市大安區敦化南路2段201號</d:顯示用地址>
+        <d:系統辨識用地址>台北市敦化南路二段201號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A39.9037975Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='2573b871-20a3-4ca7-a724-ec464d73c6df',RowKey='%E9%87%91%E5%9C%8B%E9%9A%9B%E6%97%85%E7%A4%BE')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='2573b871-20a3-4ca7-a724-ec464d73c6df',RowKey='%E9%87%91%E5%9C%8B%E9%9A%9B%E6%97%85%E7%A4%BE')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2573b871-20a3-4ca7-a724-ec464d73c6df</d:PartitionKey>
+        <d:RowKey>金國際旅社</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:39.9037975Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">2573b871-20a3-4ca7-a724-ec464d73c6df</d:entityid>
+        <d:標題>金國際旅社</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2331-3131</d:內容>
+        <d:顯示用地址>台北市萬華區西寧南路157-159號2樓</d:顯示用地址>
+        <d:系統辨識用地址>台北市西寧南路157之159號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A58.7015563Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='26313c4d-61c9-4eb9-9b39-ab01992ccfa8',RowKey='%E9%8A%80%E5%AF%B6%E6%97%85%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='26313c4d-61c9-4eb9-9b39-ab01992ccfa8',RowKey='%E9%8A%80%E5%AF%B6%E6%97%85%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>26313c4d-61c9-4eb9-9b39-ab01992ccfa8</d:PartitionKey>
+        <d:RowKey>銀寶旅店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:58.7015563Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">26313c4d-61c9-4eb9-9b39-ab01992ccfa8</d:entityid>
+        <d:標題>銀寶旅店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2555-1130</d:內容>
+        <d:顯示用地址>台北市大同區延平北路1段121號</d:顯示用地址>
+        <d:系統辨識用地址>台北市延平北路一段121號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A27.3472843Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='28b7dda3-0b78-4c08-bef4-99a57ff2f70c',RowKey='%E8%8E%8E%E5%A4%9A%E5%A0%A1%E5%A5%87%E5%B9%BB%E6%97%85%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='28b7dda3-0b78-4c08-bef4-99a57ff2f70c',RowKey='%E8%8E%8E%E5%A4%9A%E5%A0%A1%E5%A5%87%E5%B9%BB%E6%97%85%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>28b7dda3-0b78-4c08-bef4-99a57ff2f70c</d:PartitionKey>
+        <d:RowKey>莎多堡奇幻旅館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:27.3472843Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">28b7dda3-0b78-4c08-bef4-99a57ff2f70c</d:entityid>
+        <d:標題>莎多堡奇幻旅館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :25319999</d:內容>
+        <d:顯示用地址>台北市中山區中山北路1段83巷15號</d:顯示用地址>
+        <d:系統辨識用地址>台北市中山區中山北路一段83巷15號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A56.8751911Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='292748bf-31c3-498a-b0be-51c02cad9249',RowKey='%E4%BA%AC%E9%83%BD%E5%95%86%E5%8B%99%E6%97%85%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='292748bf-31c3-498a-b0be-51c02cad9249',RowKey='%E4%BA%AC%E9%83%BD%E5%95%86%E5%8B%99%E6%97%85%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>292748bf-31c3-498a-b0be-51c02cad9249</d:PartitionKey>
+        <d:RowKey>京都商務旅館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:56.8751911Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">292748bf-31c3-498a-b0be-51c02cad9249</d:entityid>
+        <d:標題>京都商務旅館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2567-3366</d:內容>
+        <d:顯示用地址>台北市中山區長春路38號3-10樓</d:顯示用地址>
+        <d:系統辨識用地址>台北市長春路38號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A42.4593085Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='2c417c21-9d33-4579-bef3-14b850b868bb',RowKey='%E9%BE%8D%E7%A5%A5%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='2c417c21-9d33-4579-bef3-14b850b868bb',RowKey='%E9%BE%8D%E7%A5%A5%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2c417c21-9d33-4579-bef3-14b850b868bb</d:PartitionKey>
+        <d:RowKey>龍祥大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:42.4593085Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">2c417c21-9d33-4579-bef3-14b850b868bb</d:entityid>
+        <d:標題>龍祥大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2367-0660</d:內容>
+        <d:顯示用地址>台北市中正區水源路75號</d:顯示用地址>
+        <d:系統辨識用地址>台北市水源路75號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A06.3050767Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='2d7535a6-df06-4035-93c3-29b5104c8cc4',RowKey='%E6%B3%95%E7%9A%87%E6%AD%90%E5%BC%8F%E7%B2%BE%E5%93%81%E6%97%85%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='2d7535a6-df06-4035-93c3-29b5104c8cc4',RowKey='%E6%B3%95%E7%9A%87%E6%AD%90%E5%BC%8F%E7%B2%BE%E5%93%81%E6%97%85%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2d7535a6-df06-4035-93c3-29b5104c8cc4</d:PartitionKey>
+        <d:RowKey>法皇歐式精品旅館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:06.3050767Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">2d7535a6-df06-4035-93c3-29b5104c8cc4</d:entityid>
+        <d:標題>法皇歐式精品旅館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2789-0505</d:內容>
+        <d:顯示用地址>台北市南港區重陽路122號</d:顯示用地址>
+        <d:系統辨識用地址>台北市重陽路122號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A48.7545673Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='2e580b9a-664b-42aa-9f6b-f2c604ba8f53',RowKey='%E6%B0%B4%E7%BE%8E%E6%BA%AB%E6%B3%89%E6%9C%83%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='2e580b9a-664b-42aa-9f6b-f2c604ba8f53',RowKey='%E6%B0%B4%E7%BE%8E%E6%BA%AB%E6%B3%89%E6%9C%83%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2e580b9a-664b-42aa-9f6b-f2c604ba8f53</d:PartitionKey>
+        <d:RowKey>水美溫泉會館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:48.7545673Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">2e580b9a-664b-42aa-9f6b-f2c604ba8f53</d:entityid>
+        <d:標題>水美溫泉會館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :</d:內容>
+        <d:顯示用地址>台北市北投區光明路225號</d:顯示用地址>
+        <d:系統辨識用地址>台北市光明路225號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A24.0966343Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='2f360c1e-fced-4c8c-8571-be4d0474c840',RowKey='%E7%A5%9E%E6%97%BA%E5%95%86%E5%8B%99%E9%85%92%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='2f360c1e-fced-4c8c-8571-be4d0474c840',RowKey='%E7%A5%9E%E6%97%BA%E5%95%86%E5%8B%99%E9%85%92%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2f360c1e-fced-4c8c-8571-be4d0474c840</d:PartitionKey>
+        <d:RowKey>神旺商務酒店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:24.0966343Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">2f360c1e-fced-4c8c-8571-be4d0474c840</d:entityid>
+        <d:標題>神旺商務酒店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :25115185</d:內容>
+        <d:顯示用地址>台北市中山區南京東路1段128號</d:顯示用地址>
+        <d:系統辨識用地址>台北市南京東路一段128號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A49.5637291Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='2f4a3ae8-86bd-4542-923e-75f3984e5300',RowKey='%E7%BE%8E%E4%BB%A3%E6%BA%AB%E6%B3%89%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='2f4a3ae8-86bd-4542-923e-75f3984e5300',RowKey='%E7%BE%8E%E4%BB%A3%E6%BA%AB%E6%B3%89%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>2f4a3ae8-86bd-4542-923e-75f3984e5300</d:PartitionKey>
+        <d:RowKey>美代溫泉飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:49.5637291Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">2f4a3ae8-86bd-4542-923e-75f3984e5300</d:entityid>
+        <d:標題>美代溫泉飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :28912174</d:內容>
+        <d:顯示用地址>台北市北投區光明路281號</d:顯示用地址>
+        <d:系統辨識用地址>台北市光明路281號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A59.2076575Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='30051903-768a-4f2c-986c-e40b6d1ce04b',RowKey='%E5%8F%B0%E5%8C%97%E7%B6%A0%E8%92%82%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='30051903-768a-4f2c-986c-e40b6d1ce04b',RowKey='%E5%8F%B0%E5%8C%97%E7%B6%A0%E8%92%82%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>30051903-768a-4f2c-986c-e40b6d1ce04b</d:PartitionKey>
+        <d:RowKey>台北綠蒂飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:59.2076575Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">30051903-768a-4f2c-986c-e40b6d1ce04b</d:entityid>
+        <d:標題>台北綠蒂飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2594-3901</d:內容>
+        <d:顯示用地址>台北市中山區新生北路3段56巷14號2-7樓</d:顯示用地址>
+        <d:系統辨識用地址>台北市新生北路三段56巷14號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A47.5243213Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='3072b3fc-8ab8-45f1-8d42-5f14e4e34354',RowKey='%E7%86%B1%E6%B5%B7%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='3072b3fc-8ab8-45f1-8d42-5f14e4e34354',RowKey='%E7%86%B1%E6%B5%B7%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>3072b3fc-8ab8-45f1-8d42-5f14e4e34354</d:PartitionKey>
+        <d:RowKey>熱海大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:47.5243213Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">3072b3fc-8ab8-45f1-8d42-5f14e4e34354</d:entityid>
+        <d:標題>熱海大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :28915161</d:內容>
+        <d:顯示用地址>台北市北投區光明路259號</d:顯示用地址>
+        <d:系統辨識用地址>台北市光明路259號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A43.4675101Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='309f1ad3-a120-4bdd-b0b5-932dd9eb9df1',RowKey='%E9%87%91%E4%BE%86%E5%95%86%E6%97%85')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='309f1ad3-a120-4bdd-b0b5-932dd9eb9df1',RowKey='%E9%87%91%E4%BE%86%E5%95%86%E6%97%85')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>309f1ad3-a120-4bdd-b0b5-932dd9eb9df1</d:PartitionKey>
+        <d:RowKey>金來商旅</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:43.4675101Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">309f1ad3-a120-4bdd-b0b5-932dd9eb9df1</d:entityid>
+        <d:標題>金來商旅</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2397-9399</d:內容>
+        <d:顯示用地址>台北市中正區金山南路1段71號</d:顯示用地址>
+        <d:系統辨識用地址>台北市金山南路一段71號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A47.2212607Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='3347f794-2953-4005-b969-7dd4e418144f',RowKey='%E9%B3%B3%E5%87%B0%E9%96%A3%E6%97%85%E7%A4%BE')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='3347f794-2953-4005-b969-7dd4e418144f',RowKey='%E9%B3%B3%E5%87%B0%E9%96%A3%E6%97%85%E7%A4%BE')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>3347f794-2953-4005-b969-7dd4e418144f</d:PartitionKey>
+        <d:RowKey>鳳凰閣旅社</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:47.2212607Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">3347f794-2953-4005-b969-7dd4e418144f</d:entityid>
+        <d:標題>鳳凰閣旅社</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :28912364</d:內容>
+        <d:顯示用地址>台北市北投區溫泉路天主巷2號</d:顯示用地址>
+        <d:系統辨識用地址>台北市溫泉路天主巷2號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A03.1694497Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='35a35c39-0bd0-43bf-8151-f3615fe83f63',RowKey='%E9%A6%99%E5%9F%8E%E6%9D%BE%E5%B1%B1%E5%A4%A7%E9%A3%AF%E5%BA%97%E3%80%88%E8%B1%AA%E5%9F%8E%E3%80%89')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='35a35c39-0bd0-43bf-8151-f3615fe83f63',RowKey='%E9%A6%99%E5%9F%8E%E6%9D%BE%E5%B1%B1%E5%A4%A7%E9%A3%AF%E5%BA%97%E3%80%88%E8%B1%AA%E5%9F%8E%E3%80%89')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>35a35c39-0bd0-43bf-8151-f3615fe83f63</d:PartitionKey>
+        <d:RowKey>香城松山大飯店〈豪城〉</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:03.1694497Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">35a35c39-0bd0-43bf-8151-f3615fe83f63</d:entityid>
+        <d:標題>香城松山大飯店〈豪城〉</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2769-3969</d:內容>
+        <d:顯示用地址>台北市松山區八德路4段624巷1號</d:顯示用地址>
+        <d:系統辨識用地址>台北市八德路四段624巷1號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A52.6193401Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='378a6182-e76b-405f-8a5e-fe9a19c131f7',RowKey='%E8%8D%B7%E8%B1%90%E6%BA%AB%E6%B3%89%E6%9C%83%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='378a6182-e76b-405f-8a5e-fe9a19c131f7',RowKey='%E8%8D%B7%E8%B1%90%E6%BA%AB%E6%B3%89%E6%9C%83%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>378a6182-e76b-405f-8a5e-fe9a19c131f7</d:PartitionKey>
+        <d:RowKey>荷豐溫泉會館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:52.6193401Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">378a6182-e76b-405f-8a5e-fe9a19c131f7</d:entityid>
+        <d:標題>荷豐溫泉會館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :28979955</d:內容>
+        <d:顯示用地址>台北市北投區溫泉路銀光巷2號</d:顯示用地址>
+        <d:系統辨識用地址>台北市溫泉路銀光巷2號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A09.3486853Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='3b301058-fa05-4b29-9a95-d827a649c740',RowKey='%E5%9F%8E%E5%B8%82%E5%95%86%E6%97%85%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='3b301058-fa05-4b29-9a95-d827a649c740',RowKey='%E5%9F%8E%E5%B8%82%E5%95%86%E6%97%85%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>3b301058-fa05-4b29-9a95-d827a649c740</d:PartitionKey>
+        <d:RowKey>城市商旅股份有限公司</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:09.3486853Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">3b301058-fa05-4b29-9a95-d827a649c740</d:entityid>
+        <d:標題>城市商旅股份有限公司</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :25561700</d:內容>
+        <d:顯示用地址>台北市大同區南京西路169號</d:顯示用地址>
+        <d:系統辨識用地址>台北市南京西路169號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A56.0630287Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='3c67c7db-bf4d-4f16-9925-68c78e1d4f83',RowKey='%E6%9D%B0%E6%B4%8B%E6%97%85%E9%A4%A8-%E8%8F%81%E5%B1%B1%E9%81%8A%E6%86%A9%E5%8D%80')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='3c67c7db-bf4d-4f16-9925-68c78e1d4f83',RowKey='%E6%9D%B0%E6%B4%8B%E6%97%85%E9%A4%A8-%E8%8F%81%E5%B1%B1%E9%81%8A%E6%86%A9%E5%8D%80')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>3c67c7db-bf4d-4f16-9925-68c78e1d4f83</d:PartitionKey>
+        <d:RowKey>杰洋旅館-菁山遊憩區</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:56.0630287Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">3c67c7db-bf4d-4f16-9925-68c78e1d4f83</d:entityid>
+        <d:標題>杰洋旅館-菁山遊憩區</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2862-3666</d:內容>
+        <d:顯示用地址>台北市士林區菁山路101巷71弄16號</d:顯示用地址>
+        <d:系統辨識用地址>台北市菁山路101巷71弄16號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A33.2504671Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='3d20a3e2-e1d3-4c9b-adbc-2507887cac63',RowKey='%E5%8F%B0%E5%8C%97%E9%A6%A5%E6%95%A6%E5%95%86%E5%8B%99%E6%97%85%E9%A4%A8%20%E5%BE%A9%E5%8D%97%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='3d20a3e2-e1d3-4c9b-adbc-2507887cac63',RowKey='%E5%8F%B0%E5%8C%97%E9%A6%A5%E6%95%A6%E5%95%86%E5%8B%99%E6%97%85%E9%A4%A8%20%E5%BE%A9%E5%8D%97%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>3d20a3e2-e1d3-4c9b-adbc-2507887cac63</d:PartitionKey>
+        <d:RowKey>台北馥敦商務旅館 復南館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:33.2504671Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">3d20a3e2-e1d3-4c9b-adbc-2507887cac63</d:entityid>
+        <d:標題>台北馥敦商務旅館 復南館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2703-1234</d:內容>
+        <d:顯示用地址>台北市大安區復興南路2段41號</d:顯示用地址>
+        <d:系統辨識用地址>台北市復興南路二段41號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A07.3192795Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='41da9cd0-92f9-4a61-a0f3-d4b36a3a0d2c',RowKey='%E7%A5%9E%E6%97%BA%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='41da9cd0-92f9-4a61-a0f3-d4b36a3a0d2c',RowKey='%E7%A5%9E%E6%97%BA%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>41da9cd0-92f9-4a61-a0f3-d4b36a3a0d2c</d:PartitionKey>
+        <d:RowKey>神旺大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:07.3192795Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">41da9cd0-92f9-4a61-a0f3-d4b36a3a0d2c</d:entityid>
+        <d:標題>神旺大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2781-2822
+2600</d:內容>
+        <d:顯示用地址>台北市大安區忠孝東路4段172號</d:顯示用地址>
+        <d:系統辨識用地址>台北市忠孝東路四段172號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A30.1748497Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='43332e34-c7e1-4aeb-ae5e-5f14821c9791',RowKey='%E8%8F%AF%E6%B3%B0%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='43332e34-c7e1-4aeb-ae5e-5f14821c9791',RowKey='%E8%8F%AF%E6%B3%B0%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>43332e34-c7e1-4aeb-ae5e-5f14821c9791</d:PartitionKey>
+        <d:RowKey>華泰大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:30.1748497Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">43332e34-c7e1-4aeb-ae5e-5f14821c9791</d:entityid>
+        <d:標題>華泰大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :25818111-1801</d:內容>
+        <d:顯示用地址>台北市中山區林森北路369號</d:顯示用地址>
+        <d:系統辨識用地址>台北市林森北路369號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A51.3080779Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='440488a1-9c66-4646-9ea4-2cc51a81ddc6',RowKey='32%E8%A1%8C%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='440488a1-9c66-4646-9ea4-2cc51a81ddc6',RowKey='32%E8%A1%8C%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>440488a1-9c66-4646-9ea4-2cc51a81ddc6</d:PartitionKey>
+        <d:RowKey>32行館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:51.3080779Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">440488a1-9c66-4646-9ea4-2cc51a81ddc6</d:entityid>
+        <d:標題>32行館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :66117888</d:內容>
+        <d:顯示用地址>台北市北投區中山路32號</d:顯示用地址>
+        <d:系統辨識用地址>台北市中山路32號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A12.2912737Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='4c116973-7865-48d9-8266-c3629d11fddd',RowKey='%E5%8F%B0%E5%8C%97%E7%A6%8F%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='4c116973-7865-48d9-8266-c3629d11fddd',RowKey='%E5%8F%B0%E5%8C%97%E7%A6%8F%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>4c116973-7865-48d9-8266-c3629d11fddd</d:PartitionKey>
+        <d:RowKey>台北福華大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:12.2912737Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">4c116973-7865-48d9-8266-c3629d11fddd</d:entityid>
+        <d:標題>台北福華大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :27002323</d:內容>
+        <d:顯示用地址>台北市大安區仁愛路3段160號</d:顯示用地址>
+        <d:系統辨識用地址>台北市仁愛路三段160號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A21.0530257Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='50b9a751-6651-4c35-812d-e0dbe5fe5820',RowKey='%E9%A6%A5%E9%BA%97%E7%B2%BE%E5%93%81%E6%97%85%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='50b9a751-6651-4c35-812d-e0dbe5fe5820',RowKey='%E9%A6%A5%E9%BA%97%E7%B2%BE%E5%93%81%E6%97%85%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>50b9a751-6651-4c35-812d-e0dbe5fe5820</d:PartitionKey>
+        <d:RowKey>馥麗精品旅館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:21.0530257Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">50b9a751-6651-4c35-812d-e0dbe5fe5820</d:entityid>
+        <d:標題>馥麗精品旅館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2658-6167</d:內容>
+        <d:顯示用地址>台北市內湖區內湖路1段325號</d:顯示用地址>
+        <d:系統辨識用地址>台北市內湖路一段325號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A13.1064367Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='50d30086-de85-40bf-a748-d7e998850ff4',RowKey='%E6%96%B0%E9%A9%9B%E6%97%85%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='50d30086-de85-40bf-a748-d7e998850ff4',RowKey='%E6%96%B0%E9%A9%9B%E6%97%85%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>50d30086-de85-40bf-a748-d7e998850ff4</d:PartitionKey>
+        <d:RowKey>新驛旅店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:13.1064367Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">50d30086-de85-40bf-a748-d7e998850ff4</d:entityid>
+        <d:標題>新驛旅店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :23148008</d:內容>
+        <d:顯示用地址>台北市中正區懷寧街7號</d:顯示用地址>
+        <d:系統辨識用地址>台北市懷寧街7號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A31.3950937Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='547cf301-e613-4ae3-bd96-d504f7096f13',RowKey='%E8%B1%AA%E6%99%AF%E5%A4%A7%E9%85%92%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='547cf301-e613-4ae3-bd96-d504f7096f13',RowKey='%E8%B1%AA%E6%99%AF%E5%A4%A7%E9%85%92%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>547cf301-e613-4ae3-bd96-d504f7096f13</d:PartitionKey>
+        <d:RowKey>豪景大酒店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:31.3950937Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">547cf301-e613-4ae3-bd96-d504f7096f13</d:entityid>
+        <d:標題>豪景大酒店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2311-3131</d:內容>
+        <d:顯示用地址>台北市萬華區環河南路1段77號</d:顯示用地址>
+        <d:系統辨識用地址>台北市環河南路一段77號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A06.7101577Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='588e3c47-6820-4cc7-a3b8-6fd74f693192',RowKey='%E4%B8%B9%E8%BF%AA%E6%97%85%E5%BA%97-%E5%A4%A7%E5%AE%89%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='588e3c47-6820-4cc7-a3b8-6fd74f693192',RowKey='%E4%B8%B9%E8%BF%AA%E6%97%85%E5%BA%97-%E5%A4%A7%E5%AE%89%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9C%92%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>588e3c47-6820-4cc7-a3b8-6fd74f693192</d:PartitionKey>
+        <d:RowKey>丹迪旅店-大安森林公園店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:06.7101577Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">588e3c47-6820-4cc7-a3b8-6fd74f693192</d:entityid>
+        <d:標題>丹迪旅店-大安森林公園店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :27076899</d:內容>
+        <d:顯示用地址>台北市大安區信義路3段33號</d:顯示用地址>
+        <d:系統辨識用地址>台北市信義路三段33號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A19.2376627Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='6028b879-fa87-423e-8fc6-4c266249f928',RowKey='%E9%87%91%E6%AE%BF%E5%94%AF%E5%AE%A2%E6%A8%82%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='6028b879-fa87-423e-8fc6-4c266249f928',RowKey='%E9%87%91%E6%AE%BF%E5%94%AF%E5%AE%A2%E6%A8%82%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>6028b879-fa87-423e-8fc6-4c266249f928</d:PartitionKey>
+        <d:RowKey>金殿唯客樂飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:19.2376627Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">6028b879-fa87-423e-8fc6-4c266249f928</d:entityid>
+        <d:標題>金殿唯客樂飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :85026161</d:內容>
+        <d:顯示用地址>台北市中山區植福路286巷6號</d:顯示用地址>
+        <d:系統辨識用地址>台北市植福路286巷6號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A33.7595689Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='60c1abc3-0f7b-492c-b684-235793cd368a',RowKey='%E9%BA%97%E9%83%BD%E5%94%AF%E5%AE%A2%E6%A8%82%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='60c1abc3-0f7b-492c-b684-235793cd368a',RowKey='%E9%BA%97%E9%83%BD%E5%94%AF%E5%AE%A2%E6%A8%82%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>60c1abc3-0f7b-492c-b684-235793cd368a</d:PartitionKey>
+        <d:RowKey>麗都唯客樂飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:33.7595689Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">60c1abc3-0f7b-492c-b684-235793cd368a</d:entityid>
+        <d:標題>麗都唯客樂飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2706-5600</d:內容>
+        <d:顯示用地址>台北市大安區信義路3段11號</d:顯示用地址>
+        <d:系統辨識用地址>台北市信義路三段11號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A07.5223201Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='6cb95456-beb9-41c7-b12c-841d204ef706',RowKey='%E4%BA%9E%E5%A3%AB%E9%83%BD%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='6cb95456-beb9-41c7-b12c-841d204ef706',RowKey='%E4%BA%9E%E5%A3%AB%E9%83%BD%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>6cb95456-beb9-41c7-b12c-841d204ef706</d:PartitionKey>
+        <d:RowKey>亞士都飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:07.5223201Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">6cb95456-beb9-41c7-b12c-841d204ef706</d:entityid>
+        <d:標題>亞士都飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :25513131</d:內容>
+        <d:顯示用地址>台北市中山區林森北路98號</d:顯示用地址>
+        <d:系統辨識用地址>台北市林森北路98號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A22.4623075Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='6f6d3775-4be6-49c2-a6da-032bf8ae672a',RowKey='%E5%BA%B7%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='6f6d3775-4be6-49c2-a6da-032bf8ae672a',RowKey='%E5%BA%B7%E8%8F%AF%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>6f6d3775-4be6-49c2-a6da-032bf8ae672a</d:PartitionKey>
+        <d:RowKey>康華大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:22.4623075Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">6f6d3775-4be6-49c2-a6da-032bf8ae672a</d:entityid>
+        <d:標題>康華大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2521-5151</d:內容>
+        <d:顯示用地址>台北市中山區松江路306號</d:顯示用地址>
+        <d:系統辨識用地址>台北市松江路306號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A14.9308015Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='6fb5918b-69c5-4cad-9f93-3a4742ae410b',RowKey='%E5%AE%B6%E7%BE%8E%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='6fb5918b-69c5-4cad-9f93-3a4742ae410b',RowKey='%E5%AE%B6%E7%BE%8E%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>6fb5918b-69c5-4cad-9f93-3a4742ae410b</d:PartitionKey>
+        <d:RowKey>家美飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:14.9308015Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">6fb5918b-69c5-4cad-9f93-3a4742ae410b</d:entityid>
+        <d:標題>家美飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :23581234</d:內容>
+        <d:顯示用地址>台北市中正區北平東路12號</d:顯示用地址>
+        <d:系統辨識用地址>台北市北平東路12號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A09.8547865Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='7373cbb9-41e7-463f-8288-d75351350ec4',RowKey='%E5%8F%B0%E5%8C%97%E7%A6%8F%E5%AE%B9%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='7373cbb9-41e7-463f-8288-d75351350ec4',RowKey='%E5%8F%B0%E5%8C%97%E7%A6%8F%E5%AE%B9%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>7373cbb9-41e7-463f-8288-d75351350ec4</d:PartitionKey>
+        <d:RowKey>台北福容大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:09.8547865Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">7373cbb9-41e7-463f-8288-d75351350ec4</d:entityid>
+        <d:標題>台北福容大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :27019266</d:內容>
+        <d:顯示用地址>台北市大安區建國南路1段266號</d:顯示用地址>
+        <d:系統辨識用地址>台北市建國南路一段266號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A22.2612673Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='739a4691-a149-4218-8953-001802ddfdc1',RowKey='%E6%AD%90%E8%8F%AF%E9%85%92%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='739a4691-a149-4218-8953-001802ddfdc1',RowKey='%E6%AD%90%E8%8F%AF%E9%85%92%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>739a4691-a149-4218-8953-001802ddfdc1</d:PartitionKey>
+        <d:RowKey>歐華酒店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:22.2612673Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">739a4691-a149-4218-8953-001802ddfdc1</d:entityid>
+        <d:標題>歐華酒店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2585-3258</d:內容>
+        <d:顯示用地址>台北市中山區林森北路646號</d:顯示用地址>
+        <d:系統辨識用地址>台北市林森北路646號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A03.7745707Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='745ab1d4-0cb8-4d7f-9471-0c34c2c49a19',RowKey='%E7%9A%87%E9%83%BD%E5%94%AF%E5%AE%A2%E6%A8%82%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='745ab1d4-0cb8-4d7f-9471-0c34c2c49a19',RowKey='%E7%9A%87%E9%83%BD%E5%94%AF%E5%AE%A2%E6%A8%82%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>745ab1d4-0cb8-4d7f-9471-0c34c2c49a19</d:PartitionKey>
+        <d:RowKey>皇都唯客樂飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:03.7745707Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">745ab1d4-0cb8-4d7f-9471-0c34c2c49a19</d:entityid>
+        <d:標題>皇都唯客樂飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :25796162</d:內容>
+        <d:顯示用地址>台北市松山區南京東路4段55-1號</d:顯示用地址>
+        <d:系統辨識用地址>台北市南京東路四段55之1號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A19.9528057Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='75c63491-a53b-40d7-9d27-ad844855b4fc',RowKey='%E5%8F%B0%E5%8C%97%E5%92%8C%E7%92%9E%E6%97%85%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='75c63491-a53b-40d7-9d27-ad844855b4fc',RowKey='%E5%8F%B0%E5%8C%97%E5%92%8C%E7%92%9E%E6%97%85%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>75c63491-a53b-40d7-9d27-ad844855b4fc</d:PartitionKey>
+        <d:RowKey>台北和璞旅店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:19.9528057Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">75c63491-a53b-40d7-9d27-ad844855b4fc</d:entityid>
+        <d:標題>台北和璞旅店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :85020505</d:內容>
+        <d:顯示用地址>台北市中山區樂群三路123號1-5樓</d:顯示用地址>
+        <d:系統辨識用地址>台北市樂群三路123號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A57.6853531Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='763625c2-f149-400c-adaa-6899f8257e0a',RowKey='%E9%A6%96%E9%83%BD%E5%94%AF%E5%AE%A2%E6%A8%82%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='763625c2-f149-400c-adaa-6899f8257e0a',RowKey='%E9%A6%96%E9%83%BD%E5%94%AF%E5%AE%A2%E6%A8%82%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>763625c2-f149-400c-adaa-6899f8257e0a</d:PartitionKey>
+        <d:RowKey>首都唯客樂飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:57.6853531Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">763625c2-f149-400c-adaa-6899f8257e0a</d:entityid>
+        <d:標題>首都唯客樂飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2507-0169</d:內容>
+        <d:顯示用地址>台北市中山區長春路187號</d:顯示用地址>
+        <d:系統辨識用地址>台北市長春路187號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A46.0100185Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='7c198a46-d417-4da1-89c8-e1cc2aa7095f',RowKey='%E6%BC%BE%E9%A4%A8%E6%BA%AB%E6%B3%89%E5%95%86%E6%97%85')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='7c198a46-d417-4da1-89c8-e1cc2aa7095f',RowKey='%E6%BC%BE%E9%A4%A8%E6%BA%AB%E6%B3%89%E5%95%86%E6%97%85')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>7c198a46-d417-4da1-89c8-e1cc2aa7095f</d:PartitionKey>
+        <d:RowKey>漾館溫泉商旅</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:46.0100185Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">7c198a46-d417-4da1-89c8-e1cc2aa7095f</d:entityid>
+        <d:標題>漾館溫泉商旅</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :28914166</d:內容>
+        <d:顯示用地址>台北市北投區泉源路64號</d:顯示用地址>
+        <d:系統辨識用地址>台北市泉源路64號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A31.1930533Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='7cff3973-2a56-4272-a5b3-8f12b4e23248',RowKey='%E6%99%B6%E8%8F%AF%E5%9C%8B%E9%9A%9B%E9%85%92%E5%BA%97%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='7cff3973-2a56-4272-a5b3-8f12b4e23248',RowKey='%E6%99%B6%E8%8F%AF%E5%9C%8B%E9%9A%9B%E9%85%92%E5%BA%97%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>7cff3973-2a56-4272-a5b3-8f12b4e23248</d:PartitionKey>
+        <d:RowKey>晶華國際酒店股份有限公司</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:31.1930533Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">7cff3973-2a56-4272-a5b3-8f12b4e23248</d:entityid>
+        <d:標題>晶華國際酒店股份有限公司</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2532-8000</d:內容>
+        <d:顯示用地址>台北市中山區中山北路2段41號</d:顯示用地址>
+        <d:系統辨識用地址>台北市中山北路二段41號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A49.7797723Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='7f0d34ab-862a-4dba-a681-7a3b41e377cb',RowKey='%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%BA%AB%E6%B3%89%E6%9C%83%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='7f0d34ab-862a-4dba-a681-7a3b41e377cb',RowKey='%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%BA%AB%E6%B3%89%E6%9C%83%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>7f0d34ab-862a-4dba-a681-7a3b41e377cb</d:PartitionKey>
+        <d:RowKey>太平洋溫泉會館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:49.7797723Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">7f0d34ab-862a-4dba-a681-7a3b41e377cb</d:entityid>
+        <d:標題>太平洋溫泉會館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :28931668</d:內容>
+        <d:顯示用地址>台北市北投區光明路281號</d:顯示用地址>
+        <d:系統辨識用地址>台北市光明路281號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A31.2020575Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='826749e6-9d85-4685-921f-d5085df117d9',RowKey='%E5%8F%8B%E7%B5%B1%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='826749e6-9d85-4685-921f-d5085df117d9',RowKey='%E5%8F%8B%E7%B5%B1%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>826749e6-9d85-4685-921f-d5085df117d9</d:PartitionKey>
+        <d:RowKey>友統飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:31.2020575Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">826749e6-9d85-4685-921f-d5085df117d9</d:entityid>
+        <d:標題>友統飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2773-5177</d:內容>
+        <d:顯示用地址>台北市大安區忠孝東路4段197號13樓</d:顯示用地址>
+        <d:系統辨識用地址>台北市忠孝東路四段197號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A56.2690699Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='8be8dd85-c6fa-4f4e-9c5c-c1ea01fd5dc2',RowKey='%E7%99%BE%E6%A8%82%E5%8C%AF%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='8be8dd85-c6fa-4f4e-9c5c-c1ea01fd5dc2',RowKey='%E7%99%BE%E6%A8%82%E5%8C%AF%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>8be8dd85-c6fa-4f4e-9c5c-c1ea01fd5dc2</d:PartitionKey>
+        <d:RowKey>百樂匯大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:56.2690699Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">8be8dd85-c6fa-4f4e-9c5c-c1ea01fd5dc2</d:entityid>
+        <d:標題>百樂匯大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :28956658</d:內容>
+        <d:顯示用地址>台北市北投區光明路248號</d:顯示用地址>
+        <d:系統辨識用地址>台北市光明路248號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A15.5709295Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='90abc25d-861a-4aea-a933-8a47a6217f30',RowKey='%E5%A4%A9%E6%88%90%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='90abc25d-861a-4aea-a933-8a47a6217f30',RowKey='%E5%A4%A9%E6%88%90%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>90abc25d-861a-4aea-a933-8a47a6217f30</d:PartitionKey>
+        <d:RowKey>天成大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:15.5709295Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">90abc25d-861a-4aea-a933-8a47a6217f30</d:entityid>
+        <d:標題>天成大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :23617856-239</d:內容>
+        <d:顯示用地址>台北市中正區忠孝西路1段43號</d:顯示用地址>
+        <d:系統辨識用地址>台北市忠孝西路一段43號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A53.6305423Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='9236cf71-a374-472e-9485-1df91c97eb90',RowKey='%E5%B1%B1%E6%A8%82%E6%BA%AB%E6%B3%89')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='9236cf71-a374-472e-9485-1df91c97eb90',RowKey='%E5%B1%B1%E6%A8%82%E6%BA%AB%E6%B3%89')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>9236cf71-a374-472e-9485-1df91c97eb90</d:PartitionKey>
+        <d:RowKey>山樂溫泉</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:53.6305423Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">9236cf71-a374-472e-9485-1df91c97eb90</d:entityid>
+        <d:標題>山樂溫泉</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :28913388</d:內容>
+        <d:顯示用地址>台北市北投區泉源路18號</d:顯示用地址>
+        <d:系統辨識用地址>台北市泉源路18號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A21.5420253Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='9a36fac0-8b82-4535-9228-d89488f1d19b',RowKey='%E9%BA%97%E6%B9%96%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='9a36fac0-8b82-4535-9228-d89488f1d19b',RowKey='%E9%BA%97%E6%B9%96%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>9a36fac0-8b82-4535-9228-d89488f1d19b</d:PartitionKey>
+        <d:RowKey>麗湖大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:21.5420253Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">9a36fac0-8b82-4535-9228-d89488f1d19b</d:entityid>
+        <d:標題>麗湖大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2630-6636</d:內容>
+        <d:顯示用地址>台北市內湖區成功路5段462號</d:顯示用地址>
+        <d:系統辨識用地址>台北市成功路五段462號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A04.2756709Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='9b3a154d-cc20-494f-b4b2-f489cf0309fa',RowKey='%E5%8F%B0%E5%8C%97%E5%95%86%E6%97%85%E6%85%B6%E5%9F%8E%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='9b3a154d-cc20-494f-b4b2-f489cf0309fa',RowKey='%E5%8F%B0%E5%8C%97%E5%95%86%E6%97%85%E6%85%B6%E5%9F%8E%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>9b3a154d-cc20-494f-b4b2-f489cf0309fa</d:PartitionKey>
+        <d:RowKey>台北商旅慶城館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:04.2756709Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">9b3a154d-cc20-494f-b4b2-f489cf0309fa</d:entityid>
+        <d:標題>台北商旅慶城館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :87127589</d:內容>
+        <d:顯示用地址>台北市松山區慶城街12號</d:顯示用地址>
+        <d:系統辨識用地址>台北市慶城街12號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A53.1394441Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='9b733cf3-ca86-4d4c-90ec-397a7164fbc9',RowKey='%E6%98%A5%E5%A4%A9%E9%85%92%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='9b733cf3-ca86-4d4c-90ec-397a7164fbc9',RowKey='%E6%98%A5%E5%A4%A9%E9%85%92%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>9b733cf3-ca86-4d4c-90ec-397a7164fbc9</d:PartitionKey>
+        <d:RowKey>春天酒店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:53.1394441Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">9b733cf3-ca86-4d4c-90ec-397a7164fbc9</d:entityid>
+        <d:標題>春天酒店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :28924546</d:內容>
+        <d:顯示用地址>台北市北投區幽雅路18號</d:顯示用地址>
+        <d:系統辨識用地址>台北市幽雅路18號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A00.4549069Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='9d61df2c-ef71-46c0-ab4b-11d527151d7c',RowKey='%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='9d61df2c-ef71-46c0-ab4b-11d527151d7c',RowKey='%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>9d61df2c-ef71-46c0-ab4b-11d527151d7c</d:PartitionKey>
+        <d:RowKey>台北國際飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:00.4549069Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">9d61df2c-ef71-46c0-ab4b-11d527151d7c</d:entityid>
+        <d:標題>台北國際飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :66285999-2155</d:內容>
+        <d:顯示用地址>台北市中山區南京東路1段66號</d:顯示用地址>
+        <d:系統辨識用地址>台北市南京東路一段66號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A15.3648883Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='9e6cc685-6567-46da-b574-8f1fc2b764b3',RowKey='%E6%98%9F%E8%BE%B0%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='9e6cc685-6567-46da-b574-8f1fc2b764b3',RowKey='%E6%98%9F%E8%BE%B0%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>9e6cc685-6567-46da-b574-8f1fc2b764b3</d:PartitionKey>
+        <d:RowKey>星辰大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:15.3648883Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">9e6cc685-6567-46da-b574-8f1fc2b764b3</d:entityid>
+        <d:標題>星辰大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :23971377</d:內容>
+        <d:顯示用地址>台北市中正區金山南路1段80號</d:顯示用地址>
+        <d:系統辨識用地址>台北市金山南路一段80號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A50.0808325Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='9e721214-1a79-4b91-8f2a-c11824c9ae37',RowKey='%E6%B0%B4%E7%B4%97%E8%93%AE%E6%97%85%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='9e721214-1a79-4b91-8f2a-c11824c9ae37',RowKey='%E6%B0%B4%E7%B4%97%E8%93%AE%E6%97%85%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>9e721214-1a79-4b91-8f2a-c11824c9ae37</d:PartitionKey>
+        <d:RowKey>水紗蓮旅館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:50.0808325Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">9e721214-1a79-4b91-8f2a-c11824c9ae37</d:entityid>
+        <d:標題>水紗蓮旅館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :28915121</d:內容>
+        <d:顯示用地址>台北市北投區中山路1-3號</d:顯示用地址>
+        <d:系統辨識用地址>台北市中山路1之3號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A44.9968159Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='9f00107c-2fd2-4029-be29-a989242df793',RowKey='%E5%96%9C%E7%91%9E%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='9f00107c-2fd2-4029-be29-a989242df793',RowKey='%E5%96%9C%E7%91%9E%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>9f00107c-2fd2-4029-be29-a989242df793</d:PartitionKey>
+        <d:RowKey>喜瑞飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:44.9968159Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">9f00107c-2fd2-4029-be29-a989242df793</d:entityid>
+        <d:標題>喜瑞飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2541-0077</d:內容>
+        <d:顯示用地址>台北市中山區長安東路1段65號</d:顯示用地址>
+        <d:系統辨識用地址>台北市長安東路一段65號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A31.7101591Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='a01032dc-4f2f-4b31-8c13-fbe6e19d8512',RowKey='%E5%87%B1%E7%B5%B1%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='a01032dc-4f2f-4b31-8c13-fbe6e19d8512',RowKey='%E5%87%B1%E7%B5%B1%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>a01032dc-4f2f-4b31-8c13-fbe6e19d8512</d:PartitionKey>
+        <d:RowKey>凱統大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:31.7101591Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">a01032dc-4f2f-4b31-8c13-fbe6e19d8512</d:entityid>
+        <d:標題>凱統大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2721-1162</d:內容>
+        <d:顯示用地址>台北市大安區忠孝東路3段8號3-9樓</d:顯示用地址>
+        <d:系統辨識用地址>台北市忠孝東路三段8號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A43.9776121Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='a26ac622-0e0e-4d1c-a5a2-7db0f64e470a',RowKey='%E7%B6%AD%E5%A4%9A%E9%BA%97%E4%BA%9E%E9%85%92%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='a26ac622-0e0e-4d1c-a5a2-7db0f64e470a',RowKey='%E7%B6%AD%E5%A4%9A%E9%BA%97%E4%BA%9E%E9%85%92%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>a26ac622-0e0e-4d1c-a5a2-7db0f64e470a</d:PartitionKey>
+        <d:RowKey>維多麗亞酒店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:43.9776121Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">a26ac622-0e0e-4d1c-a5a2-7db0f64e470a</d:entityid>
+        <d:標題>維多麗亞酒店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :8502-0000</d:內容>
+        <d:顯示用地址>台北市中山區敬業四路169號</d:顯示用地址>
+        <d:系統辨識用地址>台北市敬業四路169號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A55.6569475Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='a3d7832e-32f0-4283-a592-aa772847b845',RowKey='%E9%99%BD%E6%98%8E%E5%B1%B1%E4%B8%AD%E5%9C%8B%E9%BA%97%E7%B7%BB%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='a3d7832e-32f0-4283-a592-aa772847b845',RowKey='%E9%99%BD%E6%98%8E%E5%B1%B1%E4%B8%AD%E5%9C%8B%E9%BA%97%E7%B7%BB%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>a3d7832e-32f0-4283-a592-aa772847b845</d:PartitionKey>
+        <d:RowKey>陽明山中國麗緻大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:55.6569475Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">a3d7832e-32f0-4283-a592-aa772847b845</d:entityid>
+        <d:標題>陽明山中國麗緻大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2861-6661</d:內容>
+        <d:顯示用地址>台北市士林區格致路237號</d:顯示用地址>
+        <d:系統辨識用地址>台北市格致路237號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A41.1160399Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='a5afa53f-e326-40eb-9899-0dee20853428',RowKey='%E5%84%B7%E5%9C%92%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='a5afa53f-e326-40eb-9899-0dee20853428',RowKey='%E5%84%B7%E5%9C%92%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>a5afa53f-e326-40eb-9899-0dee20853428</d:PartitionKey>
+        <d:RowKey>儷園飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:41.1160399Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">a5afa53f-e326-40eb-9899-0dee20853428</d:entityid>
+        <d:標題>儷園飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :23657367</d:內容>
+        <d:顯示用地址>台北市中正區羅斯福路3段98號</d:顯示用地址>
+        <d:系統辨識用地址>台北市羅斯福路三段98號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A03.9736105Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='a6d60c5f-019d-43fe-b313-644f1bd45093',RowKey='%E7%8E%8B%E6%9C%9D%E5%A4%A7%E9%85%92%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='a6d60c5f-019d-43fe-b313-644f1bd45093',RowKey='%E7%8E%8B%E6%9C%9D%E5%A4%A7%E9%85%92%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>a6d60c5f-019d-43fe-b313-644f1bd45093</d:PartitionKey>
+        <d:RowKey>王朝大酒店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:03.9736105Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">a6d60c5f-019d-43fe-b313-644f1bd45093</d:entityid>
+        <d:標題>王朝大酒店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :27197199</d:內容>
+        <d:顯示用地址>台北市松山區敦化北路100號</d:顯示用地址>
+        <d:系統辨識用地址>台北市敦化北路100號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A45.1998565Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='a70b7f25-b4d3-4fb3-bc12-149621c2eca5',RowKey='%E5%8F%8B%E5%8F%8B%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='a70b7f25-b4d3-4fb3-bc12-149621c2eca5',RowKey='%E5%8F%8B%E5%8F%8B%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>a70b7f25-b4d3-4fb3-bc12-149621c2eca5</d:PartitionKey>
+        <d:RowKey>友友飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:45.1998565Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">a70b7f25-b4d3-4fb3-bc12-149621c2eca5</d:entityid>
+        <d:標題>友友飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2531-6767</d:內容>
+        <d:顯示用地址>台北市中山區長春路24號2-9樓</d:顯示用地址>
+        <d:系統辨識用地址>台北市長春路24號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A30.7809709Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='a9b02f77-4fb6-4553-8096-39b270dc8041',RowKey='%E9%95%B7%E6%A6%AE%E6%A1%82%E5%86%A0%E9%85%92%E5%BA%97%E3%80%88%E5%8F%B0%E5%8C%97%E3%80%89')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='a9b02f77-4fb6-4553-8096-39b270dc8041',RowKey='%E9%95%B7%E6%A6%AE%E6%A1%82%E5%86%A0%E9%85%92%E5%BA%97%E3%80%88%E5%8F%B0%E5%8C%97%E3%80%89')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>a9b02f77-4fb6-4553-8096-39b270dc8041</d:PartitionKey>
+        <d:RowKey>長榮桂冠酒店〈台北〉</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:30.7809709Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">a9b02f77-4fb6-4553-8096-39b270dc8041</d:entityid>
+        <d:標題>長榮桂冠酒店〈台北〉</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :25019988</d:內容>
+        <d:顯示用地址>台北市中山區松江路63號</d:顯示用地址>
+        <d:系統辨識用地址>台北市松江路63號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A27.1452439Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='a9d22b48-2bb3-4525-9e68-cda62435d9c7',RowKey='%E8%8E%8E%E5%A4%9A%E5%A0%A1%E5%A5%87%E5%B9%BB%E6%97%85%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='a9d22b48-2bb3-4525-9e68-cda62435d9c7',RowKey='%E8%8E%8E%E5%A4%9A%E5%A0%A1%E5%A5%87%E5%B9%BB%E6%97%85%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>a9d22b48-2bb3-4525-9e68-cda62435d9c7</d:PartitionKey>
+        <d:RowKey>莎多堡奇幻旅館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:27.1452439Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">a9d22b48-2bb3-4525-9e68-cda62435d9c7</d:entityid>
+        <d:標題>莎多堡奇幻旅館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :85027578</d:內容>
+        <d:顯示用地址>台北市中山區敬業二路75號</d:顯示用地址>
+        <d:系統辨識用地址>台北市敬業二路75號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A39.5957359Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='ae90cc79-7399-49dd-be0f-90f5722d5cd1',RowKey='%E7%B4%85%E8%8F%B1%E9%96%A3%E8%B3%93%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='ae90cc79-7399-49dd-be0f-90f5722d5cd1',RowKey='%E7%B4%85%E8%8F%B1%E9%96%A3%E8%B3%93%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>ae90cc79-7399-49dd-be0f-90f5722d5cd1</d:PartitionKey>
+        <d:RowKey>紅菱閣賓館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:39.5957359Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">ae90cc79-7399-49dd-be0f-90f5722d5cd1</d:entityid>
+        <d:標題>紅菱閣賓館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2361-9696</d:內容>
+        <d:顯示用地址>台北市萬華區峨眉街80號</d:顯示用地址>
+        <d:系統辨識用地址>台北市峨眉街80號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A51.6051373Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='af4a1adc-5a33-42b5-a01b-f39ebca348c8',RowKey='%E6%B3%89%E9%83%BD%E6%BA%AB%E6%B3%89%E4%BC%91%E9%96%92%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='af4a1adc-5a33-42b5-a01b-f39ebca348c8',RowKey='%E6%B3%89%E9%83%BD%E6%BA%AB%E6%B3%89%E4%BC%91%E9%96%92%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>af4a1adc-5a33-42b5-a01b-f39ebca348c8</d:PartitionKey>
+        <d:RowKey>泉都溫泉休閒飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:51.6051373Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">af4a1adc-5a33-42b5-a01b-f39ebca348c8</d:entityid>
+        <d:標題>泉都溫泉休閒飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :28960077</d:內容>
+        <d:顯示用地址>台北市北投區光明路221號</d:顯示用地址>
+        <d:系統辨識用地址>台北市光明路221號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A55.8629887Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='b4d6007f-3173-4b36-a432-1971a3919f2b',RowKey='%E5%9C%8B%E9%9A%9B%E5%A4%A7%E6%97%85%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='b4d6007f-3173-4b36-a432-1971a3919f2b',RowKey='%E5%9C%8B%E9%9A%9B%E5%A4%A7%E6%97%85%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>b4d6007f-3173-4b36-a432-1971a3919f2b</d:PartitionKey>
+        <d:RowKey>國際大旅館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:55.8629887Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">b4d6007f-3173-4b36-a432-1971a3919f2b</d:entityid>
+        <d:標題>國際大旅館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2861-7100</d:內容>
+        <d:顯示用地址>台北市北投區湖山路一段7號</d:顯示用地址>
+        <d:系統辨識用地址>台北市湖山路一段7號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A00.7459651Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='b6540b73-6f19-4ad9-b693-a10f4bfdf9da',RowKey='%E6%96%B0%E5%87%B1%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='b6540b73-6f19-4ad9-b693-a10f4bfdf9da',RowKey='%E6%96%B0%E5%87%B1%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>b6540b73-6f19-4ad9-b693-a10f4bfdf9da</d:PartitionKey>
+        <d:RowKey>新凱飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:00.7459651Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">b6540b73-6f19-4ad9-b693-a10f4bfdf9da</d:entityid>
+        <d:標題>新凱飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2585-5000</d:內容>
+        <d:顯示用地址>台北市中山區新生北路3段76-1號</d:顯示用地址>
+        <d:系統辨識用地址>台北市新生北路三段76之1號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A48.5385241Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='bc72c778-f56f-46ac-bace-44f96d00e00c',RowKey='%E4%BA%AC%E9%83%BD%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='bc72c778-f56f-46ac-bace-44f96d00e00c',RowKey='%E4%BA%AC%E9%83%BD%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>bc72c778-f56f-46ac-bace-44f96d00e00c</d:PartitionKey>
+        <d:RowKey>京都飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:48.5385241Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">bc72c778-f56f-46ac-bace-44f96d00e00c</d:entityid>
+        <d:標題>京都飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :28912151</d:內容>
+        <d:顯示用地址>台北市北投區溫泉路106號</d:顯示用地址>
+        <d:系統辨識用地址>台北市溫泉路106號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A58.9045969Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='bd29f0dd-20ef-4423-b136-5c768cfe1cc5',RowKey='%E5%8F%8B%E6%98%A5%E4%BC%81%E6%A5%AD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='bd29f0dd-20ef-4423-b136-5c768cfe1cc5',RowKey='%E5%8F%8B%E6%98%A5%E4%BC%81%E6%A5%AD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>bd29f0dd-20ef-4423-b136-5c768cfe1cc5</d:PartitionKey>
+        <d:RowKey>友春企業有限公司</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:58.9045969Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">bd29f0dd-20ef-4423-b136-5c768cfe1cc5</d:entityid>
+        <d:標題>友春企業有限公司</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2597-2588</d:內容>
+        <d:顯示用地址>台北市中山區民權西路55號</d:顯示用地址>
+        <d:系統辨識用地址>台北市民權西路55號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A35.2918753Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='bec33188-98d2-4f0c-a04d-05f948f09742',RowKey='%E8%8F%AF%E9%BA%97%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='bec33188-98d2-4f0c-a04d-05f948f09742',RowKey='%E8%8F%AF%E9%BA%97%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>bec33188-98d2-4f0c-a04d-05f948f09742</d:PartitionKey>
+        <d:RowKey>華麗大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:35.2918753Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">bec33188-98d2-4f0c-a04d-05f948f09742</d:entityid>
+        <d:標題>華麗大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :23818111</d:內容>
+        <d:顯示用地址>台北市萬華區康定路41號</d:顯示用地址>
+        <d:系統辨識用地址>台北市康定路41號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A32.3082787Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='bf70b806-db6d-456f-a18a-7cac29c0077a',RowKey='%E9%AB%98%E9%9B%85%E8%B3%93%E9%A4%A8%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='bf70b806-db6d-456f-a18a-7cac29c0077a',RowKey='%E9%AB%98%E9%9B%85%E8%B3%93%E9%A4%A8%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>bf70b806-db6d-456f-a18a-7cac29c0077a</d:PartitionKey>
+        <d:RowKey>高雅賓館有限公司</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:32.3082787Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">bf70b806-db6d-456f-a18a-7cac29c0077a</d:entityid>
+        <d:標題>高雅賓館有限公司</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2738-8947</d:內容>
+        <d:顯示用地址>台北市大安區和平東路3段141號</d:顯示用地址>
+        <d:系統辨識用地址>台北市和平東路三段141號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A45.4959157Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='bfa97332-ef3c-4de5-8248-61e51ee04eed',RowKey='%E6%B7%BA%E8%8D%89%E5%88%A5%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='bfa97332-ef3c-4de5-8248-61e51ee04eed',RowKey='%E6%B7%BA%E8%8D%89%E5%88%A5%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>bfa97332-ef3c-4de5-8248-61e51ee04eed</d:PartitionKey>
+        <d:RowKey>淺草別館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:45.4959157Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">bfa97332-ef3c-4de5-8248-61e51ee04eed</d:entityid>
+        <d:標題>淺草別館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :28913366</d:內容>
+        <d:顯示用地址>台北市北投區溫泉路銀光巷4-3號</d:顯示用地址>
+        <d:系統辨識用地址>台北市溫泉路銀光巷4之3號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A02.7593677Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='c1d24edb-d0b4-46c8-a75b-bd2ff8895564',RowKey='%E5%8F%B0%E5%8C%97%E9%A6%A5%E6%95%A6%E9%A3%AF%E5%BA%97-%E5%BE%A9%E5%8C%97%E8%B7%AF')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='c1d24edb-d0b4-46c8-a75b-bd2ff8895564',RowKey='%E5%8F%B0%E5%8C%97%E9%A6%A5%E6%95%A6%E9%A3%AF%E5%BA%97-%E5%BE%A9%E5%8C%97%E8%B7%AF')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>c1d24edb-d0b4-46c8-a75b-bd2ff8895564</d:PartitionKey>
+        <d:RowKey>台北馥敦飯店-復北路</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:02.7593677Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">c1d24edb-d0b4-46c8-a75b-bd2ff8895564</d:entityid>
+        <d:標題>台北馥敦飯店-復北路</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2718-8181</d:內容>
+        <d:顯示用地址>台北市松山區復興北路315號</d:顯示用地址>
+        <d:系統辨識用地址>台北市復興北路315號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A27.5503249Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='c1f303b3-c917-49ec-aa74-4de17832a96f',RowKey='%E5%8F%B0%E5%8C%97%E8%80%81%E7%88%BA%E5%A4%A7%E9%85%92%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='c1f303b3-c917-49ec-aa74-4de17832a96f',RowKey='%E5%8F%B0%E5%8C%97%E8%80%81%E7%88%BA%E5%A4%A7%E9%85%92%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>c1f303b3-c917-49ec-aa74-4de17832a96f</d:PartitionKey>
+        <d:RowKey>台北老爺大酒店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:27.5503249Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">c1f303b3-c917-49ec-aa74-4de17832a96f</d:entityid>
+        <d:標題>台北老爺大酒店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2542-3299</d:內容>
+        <d:顯示用地址>台北市中山區中山北路2段37-1號</d:顯示用地址>
+        <d:系統辨識用地址>台北市中山北路二段37之1號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A22.0572265Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='c1f7dbd4-9385-4ce1-aabe-19eb35e322aa',RowKey='%E8%8F%AF%E5%9C%8B%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='c1f7dbd4-9385-4ce1-aabe-19eb35e322aa',RowKey='%E8%8F%AF%E5%9C%8B%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>c1f7dbd4-9385-4ce1-aabe-19eb35e322aa</d:PartitionKey>
+        <d:RowKey>華國大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:22.0572265Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">c1f7dbd4-9385-4ce1-aabe-19eb35e322aa</d:entityid>
+        <d:標題>華國大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2596-5111</d:內容>
+        <d:顯示用地址>台北市中山區林森北路600號</d:顯示用地址>
+        <d:系統辨識用地址>台北市林森北路600號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A36.8431855Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='c4726827-af2b-437c-a6f9-02c6956b114a',RowKey='%E6%88%90%E9%83%BD%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='c4726827-af2b-437c-a6f9-02c6956b114a',RowKey='%E6%88%90%E9%83%BD%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>c4726827-af2b-437c-a6f9-02c6956b114a</d:PartitionKey>
+        <d:RowKey>成都大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:36.8431855Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">c4726827-af2b-437c-a6f9-02c6956b114a</d:entityid>
+        <d:標題>成都大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :23831123</d:內容>
+        <d:顯示用地址>台北市萬華區成都路115號</d:顯示用地址>
+        <d:系統辨識用地址>台北市成都路115號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A25.3108771Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='c62aaf90-8035-4817-ac32-c00b4bef9caa',RowKey='%E5%9C%8B%E7%8E%8B%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='c62aaf90-8035-4817-ac32-c00b4bef9caa',RowKey='%E5%9C%8B%E7%8E%8B%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>c62aaf90-8035-4817-ac32-c00b4bef9caa</d:PartitionKey>
+        <d:RowKey>國王大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:25.3108771Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">c62aaf90-8035-4817-ac32-c00b4bef9caa</d:entityid>
+        <d:標題>國王大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2581-1111</d:內容>
+        <d:顯示用地址>台北市中山區南京東路1段118號</d:顯示用地址>
+        <d:系統辨識用地址>台北市南京東路一段118號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A28.1544457Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='c888878e-cf81-421c-8fa3-e633ee96740c',RowKey='%E4%B8%89%E5%BE%B7%E8%A7%80%E5%85%89%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='c888878e-cf81-421c-8fa3-e633ee96740c',RowKey='%E4%B8%89%E5%BE%B7%E8%A7%80%E5%85%89%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>c888878e-cf81-421c-8fa3-e633ee96740c</d:PartitionKey>
+        <d:RowKey>三德觀光大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:28.1544457Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">c888878e-cf81-421c-8fa3-e633ee96740c</d:entityid>
+        <d:標題>三德觀光大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :25963121-3701</d:內容>
+        <d:顯示用地址>台北市大同區承德路3段49號</d:顯示用地址>
+        <d:系統辨識用地址>台北市承德路三段49號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A32.8023775Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='cce83325-3919-4f13-b358-87c178c741ca',RowKey='%E5%8F%B0%E5%8C%97%E5%95%86%E6%97%85')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='cce83325-3919-4f13-b358-87c178c741ca',RowKey='%E5%8F%B0%E5%8C%97%E5%95%86%E6%97%85')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>cce83325-3919-4f13-b358-87c178c741ca</d:PartitionKey>
+        <d:RowKey>台北商旅</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:32.8023775Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">cce83325-3919-4f13-b358-87c178c741ca</d:entityid>
+        <d:標題>台北商旅</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :8773-3799</d:內容>
+        <d:顯示用地址>台北市大安區大安路1段135號</d:顯示用地址>
+        <d:系統辨識用地址>台北市大安路一段135號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A02.9624083Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='cda8ade7-df95-400c-83f2-14be1a21e356',RowKey='%E5%A4%A7%E4%BE%86%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='cda8ade7-df95-400c-83f2-14be1a21e356',RowKey='%E5%A4%A7%E4%BE%86%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>cda8ade7-df95-400c-83f2-14be1a21e356</d:PartitionKey>
+        <d:RowKey>大來飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:02.9624083Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">cda8ade7-df95-400c-83f2-14be1a21e356</d:entityid>
+        <d:標題>大來飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :27160011-211</d:內容>
+        <d:顯示用地址>台北市松山區長春路432號</d:顯示用地址>
+        <d:系統辨識用地址>台北市長春路432號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A24.7927735Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='ceb6dd91-5e57-4085-a36a-cfd6742c6bcf',RowKey='%E5%85%84%E5%BC%9F%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='ceb6dd91-5e57-4085-a36a-cfd6742c6bcf',RowKey='%E5%85%84%E5%BC%9F%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>ceb6dd91-5e57-4085-a36a-cfd6742c6bcf</d:PartitionKey>
+        <d:RowKey>兄弟大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:24.7927735Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">ceb6dd91-5e57-4085-a36a-cfd6742c6bcf</d:entityid>
+        <d:標題>兄弟大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :27123456-2101</d:內容>
+        <d:顯示用地址>台北市中山區南京東路3段255號</d:顯示用地址>
+        <d:系統辨識用地址>台北市南京東路三段255號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A06.5081173Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='d27c46d3-502c-4b9b-84cc-0a2eeff5b705',RowKey='%E5%8F%B0%E5%8C%97%E7%BE%8E%E4%BE%96%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='d27c46d3-502c-4b9b-84cc-0a2eeff5b705',RowKey='%E5%8F%B0%E5%8C%97%E7%BE%8E%E4%BE%96%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>d27c46d3-502c-4b9b-84cc-0a2eeff5b705</d:PartitionKey>
+        <d:RowKey>台北美侖大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:06.5081173Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">d27c46d3-502c-4b9b-84cc-0a2eeff5b705</d:entityid>
+        <d:標題>台北美侖大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :5579-3888</d:內容>
+        <d:顯示用地址>台北市復興南路1段317號</d:顯示用地址>
+        <d:系統辨識用地址>台北市復興南路一段317號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A28.3554859Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='d3e5d905-ef13-4e2f-b005-05402b3e32e0',RowKey='%E5%85%AD%E7%A6%8F%E5%AE%A2%E6%A3%A7')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='d3e5d905-ef13-4e2f-b005-05402b3e32e0',RowKey='%E5%85%AD%E7%A6%8F%E5%AE%A2%E6%A3%A7')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>d3e5d905-ef13-4e2f-b005-05402b3e32e0</d:PartitionKey>
+        <d:RowKey>六福客棧</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:28.3554859Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">d3e5d905-ef13-4e2f-b005-05402b3e32e0</d:entityid>
+        <d:標題>六福客棧</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2507-3211</d:內容>
+        <d:顯示用地址>台北市中山區長春路168號</d:顯示用地址>
+        <d:系統辨識用地址>台北市長春路168號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A30.5799307Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='dbf6bb6f-2cf4-4f01-9c34-822af31d598a',RowKey='%E6%9D%B1%E4%BA%AC%E5%9C%8B%E9%9A%9B%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='dbf6bb6f-2cf4-4f01-9c34-822af31d598a',RowKey='%E6%9D%B1%E4%BA%AC%E5%9C%8B%E9%9A%9B%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>dbf6bb6f-2cf4-4f01-9c34-822af31d598a</d:PartitionKey>
+        <d:RowKey>東京國際飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:30.5799307Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">dbf6bb6f-2cf4-4f01-9c34-822af31d598a</d:entityid>
+        <d:標題>東京國際飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2564-3733</d:內容>
+        <d:顯示用地址>台北市中山區長春路39號</d:顯示用地址>
+        <d:系統辨識用地址>台北市長春路39號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A30.7159603Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='dc970c43-8d27-44a3-86e9-ca1870da7def',RowKey='%E8%B1%AA%E9%BA%97%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='dc970c43-8d27-44a3-86e9-ca1870da7def',RowKey='%E8%B1%AA%E9%BA%97%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>dc970c43-8d27-44a3-86e9-ca1870da7def</d:PartitionKey>
+        <d:RowKey>豪麗飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:30.7159603Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">dc970c43-8d27-44a3-86e9-ca1870da7def</d:entityid>
+        <d:標題>豪麗飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2776-6599</d:內容>
+        <d:顯示用地址>台北市大安區大安路1段81號</d:顯示用地址>
+        <d:系統辨識用地址>台北市大安路一段81號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A27.7623673Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='dca5eafa-9bda-4e0c-a474-70a7fb6bd974',RowKey='%E5%8F%B0%E5%8C%97%E5%9C%8B%E8%B3%93%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='dca5eafa-9bda-4e0c-a474-70a7fb6bd974',RowKey='%E5%8F%B0%E5%8C%97%E5%9C%8B%E8%B3%93%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>dca5eafa-9bda-4e0c-a474-70a7fb6bd974</d:PartitionKey>
+        <d:RowKey>台北國賓大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:27.7623673Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">dca5eafa-9bda-4e0c-a474-70a7fb6bd974</d:entityid>
+        <d:標題>台北國賓大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2551-1111</d:內容>
+        <d:顯示用地址>台北市中山區中山北路2段63號</d:顯示用地址>
+        <d:系統辨識用地址>台北市中山北路二段63號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A38.3684905Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='dd909490-2af0-47f9-abb1-ee9e429b1577',RowKey='%E5%AF%8C%E5%9C%92%E5%9C%8B%E9%9A%9B%E5%95%86%E5%8B%99%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='dd909490-2af0-47f9-abb1-ee9e429b1577',RowKey='%E5%AF%8C%E5%9C%92%E5%9C%8B%E9%9A%9B%E5%95%86%E5%8B%99%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>dd909490-2af0-47f9-abb1-ee9e429b1577</d:PartitionKey>
+        <d:RowKey>富園國際商務飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:38.3684905Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">dd909490-2af0-47f9-abb1-ee9e429b1577</d:entityid>
+        <d:標題>富園國際商務飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :23887890</d:內容>
+        <d:顯示用地址>台北市萬華區中華路1段178號B1-8樓</d:顯示用地址>
+        <d:系統辨識用地址>台北市中華路一段178號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A36.3100789Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='de6fce58-04b2-40cb-b414-58d5037a0257',RowKey='%E9%87%91%E5%B8%A5%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='de6fce58-04b2-40cb-b414-58d5037a0257',RowKey='%E9%87%91%E5%B8%A5%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>de6fce58-04b2-40cb-b414-58d5037a0257</d:PartitionKey>
+        <d:RowKey>金帥大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:36.3100789Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">de6fce58-04b2-40cb-b414-58d5037a0257</d:entityid>
+        <d:標題>金帥大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2381-8131</d:內容>
+        <d:顯示用地址>台北市萬華區昆明街142號7-8樓</d:顯示用地址>
+        <d:系統辨識用地址>台北市昆明街142號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A37.3462861Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='e0395700-3c19-452d-b9c9-7a4277c1f3c4',RowKey='%E5%AF%B6%E6%A0%BC%E5%88%A9%E6%99%82%E5%B0%9A%E6%97%85%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='e0395700-3c19-452d-b9c9-7a4277c1f3c4',RowKey='%E5%AF%B6%E6%A0%BC%E5%88%A9%E6%99%82%E5%B0%9A%E6%97%85%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>e0395700-3c19-452d-b9c9-7a4277c1f3c4</d:PartitionKey>
+        <d:RowKey>寶格利時尚旅館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:37.3462861Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">e0395700-3c19-452d-b9c9-7a4277c1f3c4</d:entityid>
+        <d:標題>寶格利時尚旅館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2382-1314</d:內容>
+        <d:顯示用地址>台北市萬華區中華路1段168號</d:顯示用地址>
+        <d:系統辨識用地址>台北市中華路一段168號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A52.8293821Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='e0a165e3-9179-4609-9085-9b3009297ce8',RowKey='%E5%8D%97%E7%BE%8E%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='e0a165e3-9179-4609-9085-9b3009297ce8',RowKey='%E5%8D%97%E7%BE%8E%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>e0a165e3-9179-4609-9085-9b3009297ce8</d:PartitionKey>
+        <d:RowKey>南美大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:52.8293821Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">e0a165e3-9179-4609-9085-9b3009297ce8</d:entityid>
+        <d:標題>南美大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :28924546</d:內容>
+        <d:顯示用地址>台北市北投區幽雅路14號</d:顯示用地址>
+        <d:系統辨識用地址>台北市幽雅路14號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A30.3818911Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='e92da6ec-8f13-45da-b5d2-4702b6a5b1fe',RowKey='%E5%AF%8C%E7%B2%A7%E5%95%86%E5%8B%99%E6%97%85%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='e92da6ec-8f13-45da-b5d2-4702b6a5b1fe',RowKey='%E5%AF%8C%E7%B2%A7%E5%95%86%E5%8B%99%E6%97%85%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>e92da6ec-8f13-45da-b5d2-4702b6a5b1fe</d:PartitionKey>
+        <d:RowKey>富粧商務旅店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:30.3818911Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">e92da6ec-8f13-45da-b5d2-4702b6a5b1fe</d:entityid>
+        <d:標題>富粧商務旅店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :23711247</d:內容>
+        <d:顯示用地址>台北市萬華區康定路6號2樓</d:顯示用地址>
+        <d:系統辨識用地址>台北市康定路6號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A34.2716713Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='e9a7fe14-d304-4b6b-9f15-58782f84bcac',RowKey='%E5%A4%9A%E9%83%8E%E6%98%8E%E5%93%A5%E6%97%85%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='e9a7fe14-d304-4b6b-9f15-58782f84bcac',RowKey='%E5%A4%9A%E9%83%8E%E6%98%8E%E5%93%A5%E6%97%85%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>e9a7fe14-d304-4b6b-9f15-58782f84bcac</d:PartitionKey>
+        <d:RowKey>多郎明哥旅館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:34.2716713Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">e9a7fe14-d304-4b6b-9f15-58782f84bcac</d:entityid>
+        <d:標題>多郎明哥旅館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2700-1200</d:內容>
+        <d:顯示用地址>台北市大安區信義路3段73號</d:顯示用地址>
+        <d:系統辨識用地址>台北市信義路三段73號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A12.9053965Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='e9d59c7f-1e94-42fa-a019-eb7961dd3d32',RowKey='%E8%8F%AF%E5%86%A0%E5%95%86%E6%97%85HOTEL')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='e9d59c7f-1e94-42fa-a019-eb7961dd3d32',RowKey='%E8%8F%AF%E5%86%A0%E5%95%86%E6%97%85HOTEL')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>e9d59c7f-1e94-42fa-a019-eb7961dd3d32</d:PartitionKey>
+        <d:RowKey>華冠商旅HOTEL</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:12.9053965Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">e9d59c7f-1e94-42fa-a019-eb7961dd3d32</d:entityid>
+        <d:標題>華冠商旅HOTEL</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :23616076</d:內容>
+        <d:顯示用地址>台北市萬華區西昌街137.139號</d:顯示用地址>
+        <d:系統辨識用地址>台北市西昌街137.139號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A15.9520057Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='ebc4f028-a29c-4010-a6b1-a66f4ffb19e0',RowKey='%E5%8F%B0%E5%8C%97%E5%87%B1%E6%92%92%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='ebc4f028-a29c-4010-a6b1-a66f4ffb19e0',RowKey='%E5%8F%B0%E5%8C%97%E5%87%B1%E6%92%92%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>ebc4f028-a29c-4010-a6b1-a66f4ffb19e0</d:PartitionKey>
+        <d:RowKey>台北凱撒大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:15.9520057Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">ebc4f028-a29c-4010-a6b1-a66f4ffb19e0</d:entityid>
+        <d:標題>台北凱撒大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2311-5151</d:內容>
+        <d:顯示用地址>台北市中正區忠孝西路1段38號</d:顯示用地址>
+        <d:系統辨識用地址>台北市忠孝西路一段38號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A24.5577265Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='ee843e7c-3ab1-414f-8624-30f34432bb2e',RowKey='%E5%85%AD%E7%A6%8F%E7%9A%87%E5%AE%AE')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='ee843e7c-3ab1-414f-8624-30f34432bb2e',RowKey='%E5%85%AD%E7%A6%8F%E7%9A%87%E5%AE%AE')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>ee843e7c-3ab1-414f-8624-30f34432bb2e</d:PartitionKey>
+        <d:RowKey>六福皇宮</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:24.5577265Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">ee843e7c-3ab1-414f-8624-30f34432bb2e</d:entityid>
+        <d:標題>六福皇宮</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :8770-6565</d:內容>
+        <d:顯示用地址>台北市中山區南京東路3段133號</d:顯示用地址>
+        <d:系統辨識用地址>台北市南京東路三段133號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A36.5111191Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='f0dc3fcb-38e1-43b2-b4a1-1d413f66abff',RowKey='%E4%B8%80%E6%A8%82%E5%9C%92%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='f0dc3fcb-38e1-43b2-b4a1-1d413f66abff',RowKey='%E4%B8%80%E6%A8%82%E5%9C%92%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>f0dc3fcb-38e1-43b2-b4a1-1d413f66abff</d:PartitionKey>
+        <d:RowKey>一樂園大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:36.5111191Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">f0dc3fcb-38e1-43b2-b4a1-1d413f66abff</d:entityid>
+        <d:標題>一樂園大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2314-1181</d:內容>
+        <d:顯示用地址>台北市萬華區西寧南路24號</d:顯示用地址>
+        <d:系統辨識用地址>台北市西寧南路24號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A06.9151987Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='f4251606-48e2-4820-9692-4c660c15e894',RowKey='%E5%8F%B0%E5%8C%97%E5%90%9B%E6%82%85%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='f4251606-48e2-4820-9692-4c660c15e894',RowKey='%E5%8F%B0%E5%8C%97%E5%90%9B%E6%82%85%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>f4251606-48e2-4820-9692-4c660c15e894</d:PartitionKey>
+        <d:RowKey>台北君悅大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:06.9151987Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">f4251606-48e2-4820-9692-4c660c15e894</d:entityid>
+        <d:標題>台北君悅大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :27201234-3050</d:內容>
+        <d:顯示用地址>台北市信義區松壽路2號</d:顯示用地址>
+        <d:系統辨識用地址>台北市松壽路2號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A43.6685503Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='f8c7ff56-0470-4b7d-9b0f-d9ecea2460ff',RowKey='%E5%8D%B0%E7%9F%B3%E6%99%82%E5%B0%9A%E6%97%85%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='f8c7ff56-0470-4b7d-9b0f-d9ecea2460ff',RowKey='%E5%8D%B0%E7%9F%B3%E6%99%82%E5%B0%9A%E6%97%85%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>f8c7ff56-0470-4b7d-9b0f-d9ecea2460ff</d:PartitionKey>
+        <d:RowKey>印石時尚旅館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:43.6685503Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">f8c7ff56-0470-4b7d-9b0f-d9ecea2460ff</d:entityid>
+        <d:標題>印石時尚旅館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :86617070</d:內容>
+        <d:顯示用地址>台北市文山區秀明路2段16號</d:顯示用地址>
+        <d:系統辨識用地址>台北市秀明路二段16號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A17.1662485Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='f9fb6d1d-5ae2-4e92-a143-c861ea45a0e6',RowKey='%E5%9C%93%E5%B1%B1%E5%A4%A7%E9%A3%AF%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='f9fb6d1d-5ae2-4e92-a143-c861ea45a0e6',RowKey='%E5%9C%93%E5%B1%B1%E5%A4%A7%E9%A3%AF%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>f9fb6d1d-5ae2-4e92-a143-c861ea45a0e6</d:PartitionKey>
+        <d:RowKey>圓山大飯店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:17.1662485Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">f9fb6d1d-5ae2-4e92-a143-c861ea45a0e6</d:entityid>
+        <d:標題>圓山大飯店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2886-1818</d:內容>
+        <d:顯示用地址>台北市中山區中山北路4段1號</d:顯示用地址>
+        <d:系統辨識用地址>台北市中山北路四段1號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A50%3A08.5445245Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='fea5f461-7354-4e33-ab2e-1695000adf40',RowKey='%E6%96%B0%E9%A9%9B%E6%97%85%E5%BA%97-%E5%BE%8C%E7%AB%99%E5%BA%97')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='fea5f461-7354-4e33-ab2e-1695000adf40',RowKey='%E6%96%B0%E9%A9%9B%E6%97%85%E5%BA%97-%E5%BE%8C%E7%AB%99%E5%BA%97')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>fea5f461-7354-4e33-ab2e-1695000adf40</d:PartitionKey>
+        <d:RowKey>新驛旅店-後站店</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:50:08.5445245Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">fea5f461-7354-4e33-ab2e-1695000adf40</d:entityid>
+        <d:標題>新驛旅店-後站店</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2555-5577</d:內容>
+        <d:顯示用地址>台北市大同區長安西路83號</d:顯示用地址>
+        <d:系統辨識用地址>台北市長安西路83號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+  <entry m:etag="W/&quot;datetime'2011-09-01T17%3A49%3A41.4231013Z'&quot;">
+    <id>http://taipeicityopendata.cloudapp.net/v1/TaipeiOGDI/okhotel(PartitionKey='ff1ceff1-d9a8-4727-90e2-74ec1a2f3f15',RowKey='%E5%8F%B0%E5%8C%97%E6%95%99%E5%B8%AB%E6%9C%83%E9%A4%A8')</id>
+    <title type="text"></title>
+    <updated>2012-04-05T03:10:46Z</updated>
+    <author>
+      <name />
+    </author>
+    <link rel="edit" title="okhotel" href="okhotel(PartitionKey='ff1ceff1-d9a8-4727-90e2-74ec1a2f3f15',RowKey='%E5%8F%B0%E5%8C%97%E6%95%99%E5%B8%AB%E6%9C%83%E9%A4%A8')" />
+    <category term="OGDI.taipeiogdi.okhotelItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+    <content type="application/xml">
+      <m:properties>
+        <d:PartitionKey>ff1ceff1-d9a8-4727-90e2-74ec1a2f3f15</d:PartitionKey>
+        <d:RowKey>台北教師會館</d:RowKey>
+        <d:Timestamp m:type="Edm.DateTime">2011-09-01T17:49:41.4231013Z</d:Timestamp>
+        <d:entityid m:type="Edm.Guid">ff1ceff1-d9a8-4727-90e2-74ec1a2f3f15</d:entityid>
+        <d:標題>台北教師會館</d:標題>
+        <d:內容>Ok認證類別 : 旅館業  連絡電話 :2341-9161</d:內容>
+        <d:顯示用地址>台北市中正區南海路15號</d:顯示用地址>
+        <d:系統辨識用地址>台北市南海路15號</d:系統辨識用地址>
+      </m:properties>
+    </content>
+  </entry>
+</feed>
